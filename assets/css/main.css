@@ -305,8 +305,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
-			color: #00D3B7;
+			border-color: #A9D0F5;
+			color: #A9D0F5;
 		}
 
 			input[type="submit"]:hover:active,
